@@ -20,9 +20,10 @@ public class AFJS_PaymentProcessor
     }
 
     // SRP: Solo se encarga de coordinar el flujo del pago.
-    public void AFJS_ExecutePayment(decimal amount)
+    public void AFJS_ExecutePayment(decimal amount, string user)
     {
         _paymentMethod.AFJS_ProcessPayment(amount);
-        _notification.AFJS_SendNotification($"Pago por ${amount} realizado correctamente.");
+        _notification.AFJS_SendNotification($"Usuario: {user} realizó un pago de ${amount} correctamente.");
+        Console.WriteLine("--------------------------------------");
     }
 }
