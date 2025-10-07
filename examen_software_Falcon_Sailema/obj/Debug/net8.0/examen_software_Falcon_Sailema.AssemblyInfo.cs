@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen_software_Falcon_Sailema")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5f583bff2277a6bbb4f3e48d31c76644b1a29b")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen_software_Falcon_Sailema")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen_software_Falcon_Sailema")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
