@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\PATRONES\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|c:\\users\\usuario\\documents\\patrones\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\afjs_paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|solutionrelative:examen_software_falcon_sailema\\afjs_paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|c:\\users\\usuario\\documents\\patrones\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\afjs_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|solutionrelative:examen_software_falcon_sailema\\afjs_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|c:\\users\\usuario\\documents\\patrones\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\afjs_paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|solutionrelative:examen_software_falcon_sailema\\afjs_paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91074A7C-EB03-4367-A106-14FAD29D84BD}|examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema.csproj|c:\\users\\usuario\\documents\\patrones\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\examen_software_falcon_sailema\\interfaces\\afjs_ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AFJS_Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\PATRONES\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\AFJS_Program.cs",
               "RelativeDocumentMoniker": "examen_software_Falcon_Sailema\\AFJS_Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Documents\\PATRONES\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\AFJS_Program.cs",
               "RelativeToolTip": "examen_software_Falcon_Sailema\\AFJS_Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:29:10.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AFJS_PaymentProcessor.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\PATRONES\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\examen_software_Falcon_Sailema\\AFJS_PaymentProcessor.cs",
               "RelativeDocumentMoniker": "examen_software_Falcon_Sailema\\AFJS_PaymentProcessor.cs",
@@ -115,8 +115,7 @@
               "RelativeToolTip": "examen_software_Falcon_Sailema\\AFJS_PaymentProcessor.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:10:19.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T16:10:19.35Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "examen_software_Falcon_Sailema\\Interfaces\\AFJS_IPaymentMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:40:01.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T15:40:01.967Z"
             },
             {
               "$type": "Document",

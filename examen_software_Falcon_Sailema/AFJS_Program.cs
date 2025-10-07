@@ -13,7 +13,6 @@ namespace examen_software_Falcon_Sailema
             // Datos simulados
             decimal amount = 150.75m;
             string user = "Alejandro Sailema";
-
             decimal amount2 = 2000;
             string user2 = "Jorge Falcon";
 
